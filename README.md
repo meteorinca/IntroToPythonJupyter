@@ -50,19 +50,6 @@ Try the code examples.
 
 Use the quick reference and project ideas to deepen your understanding.
 
-**License**
-
-All rights reserved © 2025 whynotstem.
-This content is protected by copyright. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the copyright holder.
-For more information, see the LICENSE file.
-
-**Contact**
-
-Questions, feedback, or suggestions?
-Contact: whynotstem@gmail.com
-
-Happy learning!
-
 ## ✨ Try it in your browser ✨
 
 ➡️ **https://jupyterlite.github.io/demo**
@@ -80,17 +67,16 @@ JupyterLite is being tested against modern web browsers:
 
 Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
-## Further Information and Updates
 
-For more info, keep an eye on the JupyterLite documentation:
+**License**
 
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+All rights reserved © 2025 whynotstem.
+This content is protected by copyright. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the copyright holder.
+For more information, see the LICENSE file.
 
-This template provides the Pyodide kernel (`jupyterlite-pyodide-kernel`), the JavaScript kernel (`jupyterlite-javascript-kernel`), and the p5 kernel (`jupyterlite-p5-kernel`), along with other
-optional utilities and extensions to make the JupyterLite experience more enjoyable. See the
-[`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
+**Contact**
 
-For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
+Questions, feedback, or suggestions?
+Contact: whynotstem@gmail.com
 
-
+Happy learning!
